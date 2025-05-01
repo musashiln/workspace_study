@@ -1,5 +1,8 @@
 aaaaaaaaaaaaa
 devdevdev
 devdevdev
+<<<<<<< HEAD
 mainmainmain
-
+=======
+devdev1
+>>>>>>> dev
