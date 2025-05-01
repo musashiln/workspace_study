@@ -33,7 +33,7 @@ public interface CompareA {
         method5();
     }
 
-    private void method5(){
+    public default void method5(){   //java: 此处不允许使用修饰符private  //java: 接口抽象方法不能带有主体
         System.out.println("接口中定义的私有方法");
     }
 
