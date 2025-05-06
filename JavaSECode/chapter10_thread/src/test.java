@@ -23,8 +23,6 @@ public class test {
 //        NumPrint1 numPrint1 = new NumPrint1();
 //        new Thread(numPrint1).start();
 
-
-
         A.Method();
         A a = new A();
         A.Method();
