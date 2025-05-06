@@ -1,5 +1,7 @@
 package com.atguigu01.create.exer1;
 
+import org.junit.Test;
+
 /**
  * ClassName: PrintNumberTest
  * Package: com.atguigu01.create.exer1
@@ -17,6 +19,11 @@ class EvenNumber extends Thread{
                 System.out.println(Thread.currentThread().getName() + ":" + i);
             }
         }
+    }
+
+    @Test
+    public void test1(){
+
     }
 }
 

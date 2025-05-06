@@ -1,6 +1,6 @@
 package com.atguigu11.annotation.juint;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import java.util.Scanner;
 
