@@ -15,6 +15,7 @@ import java.util.Random;
  * @Create 2025/4/26 11:12
  * @Version 1.0
  */
+
 public class OtherApiTest {
     @Test
     public void test1(){
@@ -108,5 +109,6 @@ public class OtherApiTest {
 
     }
 
+    
 
 }

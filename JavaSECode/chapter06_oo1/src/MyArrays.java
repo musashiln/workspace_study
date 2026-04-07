@@ -82,6 +82,7 @@ public class MyArrays {
                 }
             }
         }
+        
     }
 
     public void sort(int[] arr,String sortMethod){

@@ -13,5 +13,6 @@ public class Persontest {
         //p1.age = 10;
         p1.setAge(10);
         System.out.println(p1.getAge());
+        System.out.println("中文");
     }
 }

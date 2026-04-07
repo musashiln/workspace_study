@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter09_exception/chapter09_exception.iml" filepath="$PROJECT_DIR$/chapter09_exception/chapter09_exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10_thread/chapter10_thread.iml" filepath="$PROJECT_DIR$/chapter10_thread/chapter10_thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter11_api/chapter11_api.iml" filepath="$PROJECT_DIR$/chapter11_api/chapter11_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exer/exer.iml" filepath="$PROJECT_DIR$/exer/exer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
     </modules>
   </component>
 </project>
